@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UASAKB2019</string>
+    <string name="splashscreen">splashscreen</string>
+    <string name="textview">TextView</string>
+    <string name="txtTitle">Selamat Datang</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="daftar_aplikasi_uas">Daftar Aplikasi UAS</string>
+    <string name="title_activity_main">Aplikasi Teman</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heroes_name">Nama Teman</string>
+    <string name="from">Nim Teman</string>
+</resources>
